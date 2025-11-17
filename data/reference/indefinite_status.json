@@ -8,7 +8,10 @@
   "CPC",
   "AFTC",
   "IQE",
-  "XVS"
+  "XVS",
+  "R",
+  "\\",
+  "O\/S HVC"
  ],
  "FFI": [
   "FFI"
