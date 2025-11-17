@@ -91,6 +91,10 @@
   "displayStatus": "U\/S",
   "category": "O\/S"
  },
+ "O\/S HVC": {
+  "displayStatus": "HVC",
+  "category": "O\/S"
+ },
  "SITE ESCORT": {
   "displayStatus": "ESCORT",
   "category": "O\/S"
