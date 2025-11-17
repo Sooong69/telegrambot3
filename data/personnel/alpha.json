@@ -37,48 +37,57 @@
  },
   {
   "rank": "LTA",
-  "displayName": "KAI WEN",
-  "sheetName": "KAI WEN",
+  "displayName": "JESPER",
+  "sheetName": "JESPER",
   "commSec": "NIL",
-  "nor": "NSF",
+  "nor": "REGULAR",
   "rankINT": 10,
-  "displayNoStatus": "LTA KAI WEN"
+  "displayNoStatus": "LTA JESPER"
  },
  {
   "rank": "2LT",
-  "displayName": "ZHAO LONG",
-  "sheetName": "ZHAO LONG",
+  "displayName": "JORDON",
+  "sheetName": "JORDON",
+  "commSec": "NIL",
+  "nor": "NSF",
+  "rankINT": 9,
+  "displayNoStatus": "2LT JORDAN"
+ },
+   {
+  "rank": "2LT",
+  "displayName": "SI WEI",
+  "sheetName": "SI WEI",
   "commSec": "NIL",
   "nor": "REGULAR",
   "rankINT": 9,
-  "displayNoStatus": "2LT ZHAO LONG"
+  "displayNoStatus": "2LT SI WEI"
  },
-  {
+   {
   "rank": "2LT",
-  "displayName": "ETHAN LEE",
-  "sheetName": "ETHAN LEE",
+  "displayName": "KEN",
+  "sheetName": "KEN",
   "commSec": "NIL",
   "nor": "NSF",
   "rankINT": 9,
-  "displayNoStatus": "2LT ETHAN LEE"
+  "displayNoStatus": "2LT KEN"
  },
   {
   "rank": "2LT",
-  "displayName": "LUCAS",
-  "sheetName": "LUCAS",
+  "displayName": "MAX",
+  "sheetName": "MAX",
   "commSec": "NIL",
   "nor": "NSF",
   "rankINT": 9,
-  "displayNoStatus": "2LT LUCAS"
+  "displayNoStatus": "2LT MAX"
  },
   {
   "rank": "2LT",
-  "displayName": "MARVIN",
-  "sheetName": "MARVIN",
+  "displayName": "CALVIN",
+  "sheetName": "CALVIN",
   "commSec": "NIL",
   "nor": "NSF",
   "rankINT": 9,
-  "displayNoStatus": "2LT MARVIN"
+  "displayNoStatus": "2LT CALVIN"
  },
  {
   "rank": "2WO",
@@ -109,21 +118,21 @@
  },
   {
   "rank": "3WO",
+  "displayName": "YAOREN",
+  "sheetName": "(SUP) YAOREN",
+  "commSec": "YAO REN",
+  "nor": "REGULAR",
+  "rankINT": 6,
+  "displayNoStatus": "3WO YAOREN"
+ },
+  {
+  "rank": "3WO",
   "displayName": "MANFRED",
   "sheetName": "(SUP) MANFRED ONG",
   "commSec": "MANFRED",
   "nor": "REGULAR",
   "rankINT": 6,
   "displayNoStatus": "3WO MANFRED"
- },
-{
-  "rank": "MSG",
-  "displayName": "YEW SENG",
-  "sheetName": "(SUP) YEW SENG",
-  "commSec": "NIL",
-  "nor": "REGULAR",
-  "rankINT": 5,
-  "displayNoStatus": "MSG YEW SENG"
  },
  {
   "rank": "MSG",
@@ -153,15 +162,6 @@
   "displayNoStatus": "SSG HE QUN"
  },
  {
-  "rank": "1SG",
-  "displayName": "BRYAN LEE",
-  "sheetName": "(RIGG) BRYAN LEE",
-  "commSec": "NIL",
-  "nor": "REGULAR",
-  "rankINT": 3,
-  "displayNoStatus": "1SG BRYAN LEE"
- },
- {
   "rank": "2SG",
   "displayName": "BRAYDEN",
   "sheetName": "(RIGG) BRAYDEN",
@@ -179,157 +179,103 @@
   "rankINT": 2,
   "displayNoStatus": "2SG EACHEON"
  },
- {
+{
   "rank": "2SG",
-  "displayName": "DARSHAN",
-  "sheetName": "DARSHAN",
+  "displayName": "ERON ANG",
+  "sheetName": "ERON ANG",
   "commSec": "NIL",
-  "nor": "NSF",
+  "nor": "REGULAR",
   "rankINT": 2,
-  "displayNoStatus": "2SG DARSHAN"
+  "displayNoStatus": "2SG ERON ANG"
  },
  {
-  "rank": "2SG",
-  "displayName": "CHARLES",
-  "sheetName": "CHARLES",
+  "rank": "3SG",
+  "displayName": "POOJA",
+  "sheetName": "POOJA",
   "commSec": "NIL",
-  "nor": "NSF",
-  "rankINT": 2,
-  "displayNoStatus": "2SG CHARLES"
+  "nor": "REGULAR",
+  "rankINT": 1,
+  "displayNoStatus": "3SG POOJA"
+ },
+ {
+  "rank": "3SG",
+  "displayName": "CHEN JUN WEI",
+  "sheetName": "CHEN JUN WEI",
+  "commSec": "NIL",
+  "nor": "REGULAR",
+  "rankINT": 1,
+  "displayNoStatus": "3SG CHEN JUN WEI"
  },
  {
   "rank": "3SG",
   "displayName": "YI LONG",
-  "sheetName": "YI LONG",
+  "sheetName": "(STC) YI LONG",
   "commSec": "NIL",
   "nor": "NSF",
   "rankINT": 1,
   "displayNoStatus": "3SG YI LONG"
  },
- {
-  "rank": "3SG",
-  "displayName": "MENG LEONG",
-  "sheetName": "MENG LEONG",
-  "commSec": "NIL",
-  "nor": "NSF",
-  "rankINT": 1,
-  "displayNoStatus": "3SG MENG LEONG"
- },
- {
-  "rank": "3SG",
-  "displayName": "KAI LUCAS ANTON",
-  "sheetName": "KAI LUCAS ANTON",
-  "commSec": "NIL",
-  "nor": "NSF",
-  "rankINT": 1,
-  "displayNoStatus": "3SG KAI LUCAS ANTON"
- },
- {
-  "rank": "3SG",
-  "displayName": "ZHONG PING",
-  "sheetName": "ZHONG PING",
-  "commSec": "NIL",
-  "nor": "NSF",
-  "rankINT": 1,
-  "displayNoStatus": "3SG ZHONG PING"
- },
- {
-  "rank": "3SG",
-  "displayName": "DERRILL",
-  "sheetName": "DERRILL",
-  "commSec": "NIL",
-  "nor": "NSF",
-  "rankINT": 1,
-  "displayNoStatus": "3SG DERRILL"
- },
 {
-  "rank": "SCT",
-  "displayName": "ERON ANG",
-  "sheetName": "ERON ANG",
-  "commSec": "NIL",
-  "nor": "REGULAR",
-  "rankINT": 0,
-  "displayNoStatus": "SCT ERON ANG"
- },
- {
-  "rank": "SCT",
-  "displayName": "POOJA",
-  "sheetName": "POOJA",
-  "commSec": "NIL",
-  "nor": "REGULAR",
-  "rankINT": 0,
-  "displayNoStatus": "SCT POOJA"
- },
- {
-  "rank": "SCT",
-  "displayName": "CHEN JUN WEI",
-  "sheetName": "CHEN JUN WEI",
-  "commSec": "NIL",
-  "nor": "REGULAR",
-  "rankINT": 0,
-  "displayNoStatus": "SCT CHEN JUN WEI"
- },
-{
-  "rank": "SCT",
+  "rank": "3SG",
   "displayName": "CHAN CHI HANG",
   "sheetName": "CHAN CHI HANG",
   "commSec": "NIL",
   "nor": "NSF",
-  "rankINT": 0,
-  "displayNoStatus": "SCT CHAN CHI HANG"
+  "rankINT": 1,
+  "displayNoStatus": "3SG CHAN CHI HANG"
  },
  {
-  "rank": "SCT",
+  "rank": "3SG",
   "displayName": "LEE XUN YI",
   "sheetName": "LEE XUN YI",
   "commSec": "NIL",
   "nor": "NSF",
-  "rankINT": 0,
-  "displayNoStatus": "SCT LEE XUN YI"
+  "rankINT": 1,
+  "displayNoStatus": "3SG LEE XUN YI"
  },
 {
-  "rank": "SCT",
-  "displayName": "JOSHUA SEE",
+  "rank": "3SG",
+  "displayName": "JOSHUA",
   "sheetName": "JOSHUA SEE",
   "commSec": "NIL",
   "nor": "NSF",
-  "rankINT": 0,
-  "displayNoStatus": "SCT JOSHUA SEE"
+  "rankINT": 1,
+  "displayNoStatus": "3SG JOSHUA SEE THOE"
  },
 {
-  "rank": "SCT",
+  "rank": "3SG",
   "displayName": "MERVIN ONG",
   "sheetName": "MERVIN ONG",
   "commSec": "NIL",
   "nor": "NSF",
-  "rankINT": 0,
-  "displayNoStatus": "SCT MERVIN ONG"
+  "rankINT": 1,
+  "displayNoStatus": "3SG MERVIN ONG"
  },
 {
-  "rank": "SCT",
-  "displayName": "QUETIN CHIA",
+  "rank": "3SG",
+  "displayName": "QUENTIN CHIA",
   "sheetName": "QUETIN CHIA",
   "commSec": "NIL",
   "nor": "NSF",
-  "rankINT": 0,
-  "displayNoStatus": "SCT QUETIN CHIA"
+  "rankINT": 1,
+  "displayNoStatus": "3SG QUENTIN CHIA"
  },
 {
-  "rank": "SCT",
+  "rank": "3SG",
   "displayName": "SUBASH",
   "sheetName": "SUBASH",
   "commSec": "NIL",
   "nor": "NSF",
-  "rankINT": 0,
-  "displayNoStatus": "SCT SUBASH"
+  "rankINT": 1,
+  "displayNoStatus": "3SG SUBASH"
  },
  {
-  "rank": "SCT",
+  "rank": "3SG",
   "displayName": "QUEK LENG SONG",
   "sheetName": "QUEK LENG SONG",
   "commSec": "NIL",
   "nor": "NSF",
-  "rankINT": 0,
-  "displayNoStatus": "SCT QUEK LENG SONG"
+  "rankINT": 1,
+  "displayNoStatus": "3SG QUEK LENG SONG"
  }
 ]
